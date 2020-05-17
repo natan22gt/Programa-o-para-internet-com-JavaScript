@@ -29,3 +29,25 @@
 //console.log(lista.reverse())
 */
 
+/* <aula-03>
+//var idade = prompt("qual sua idade?")
+//if (idade > 18) {
+//    alert("maior de idade")
+//} else {
+//    alert("menor de idade")
+//}
+//var count = 0
+//while (count <= 10) {
+//    console.log(count)
+//    count++
+//}
+//var count
+//for (count = 0; count <= 5; count++) {
+//    console.log(count)
+//}
+//var d = new Date()
+//console.log(d)
+//console.log(d.getHours())
+//console.log(d.getMinutes())
+//console.log(d.getSeconds())
+*/
