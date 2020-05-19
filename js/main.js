@@ -1,4 +1,4 @@
-/*<aula-01>
+/* <aula-01>
 //var nome = "Natan Castro"
 //var n1 = 8
 //var n2 = 5
@@ -13,7 +13,7 @@
 //console.log(frase.toLowerCase())
 */
 
-/*<aula-02>
+/* <aula-02>
 //var frutas = [{nome: "maçã", cor: "vermelho"}, {nome: "uva", cor: "roxo"}, {nome: "abacate", cor: "verde"}]
 //console.log(frutas)
 //console.log(frutas[2].nome)
@@ -51,3 +51,23 @@
 //console.log(d.getMinutes())
 //console.log(d.getSeconds())
 */
+
+/* <aula-04>
+function soma(n1, n2) {
+    return n1 + n2
+}
+alert(soma(10, 34))
+var validar
+function validaIdade(idade) {
+    validar
+    if (idade >= 18) {
+        validar = true
+    } else {
+        validar = false
+    }
+    return validar
+}
+var idade = prompt("Qual é a sua idade:")
+console.log(validaIdade(idade))
+*/
+
