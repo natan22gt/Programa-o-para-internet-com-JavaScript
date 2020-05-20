@@ -1,3 +1,4 @@
+
 /* <aula-01>
 //var nome = "Natan Castro"
 //var n1 = 8
@@ -71,3 +72,29 @@ var idade = prompt("Qual é a sua idade:")
 console.log(validaIdade(idade))
 */
 
+/* <aula-05>
+function clicou() {
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>"
+    //console.log(document.getElementById("agradecimento"))
+    //alert("Obrigado por clicar")
+}
+function redirecionar() {
+    window.open("https://www.youtube.com/?hl=pt&gl=BR")
+    //window.location.href = "https://www.youtube.com/?hl=pt&gl=BR"
+}
+function trocar(elemento) {
+    //document.getElementById("mousemove").innerHTML = "Obrigado por passar o mouse"
+    elemento.innerHTML = "Obrigado por passar o mouse"
+    //alert("troca de texto")
+}
+function voltar(elemento) {
+    //document.getElementById("mousemove").innerHTML = "passe o mouse aqui"
+    elemento.innerHTML = "passe o mouse aqui"
+}
+function load() {
+    alert("pagina carregada")
+}
+function funcaoChange(elemento) {
+    console.log(elemento.value)
+}
+*/
