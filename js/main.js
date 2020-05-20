@@ -1,4 +1,4 @@
-/* {Programação-para internet-com JavaScript}
+/*{Programação-para internet-com JavaScript} */
 /* <aula-01>
 //var nome = "Natan Castro"
 //var n1 = 8
@@ -12,7 +12,7 @@
 //console.log(frase.replace("Japão", "Brasil"))
 //console.log(frase.toUpperCase())
 //console.log(frase.toLowerCase())
-
+*/
 
 /* <aula-02>
 //var frutas = [{nome: "maçã", cor: "vermelho"}, {nome: "uva", cor: "roxo"}, {nome: "abacate", cor: "verde"}]
@@ -28,7 +28,7 @@
 //console.log(lista.join("/ /"))
 //console.log(lista.length)
 //console.log(lista.reverse())
-
+*/
 
 /* <aula-03>
 //var idade = prompt("qual sua idade?")
@@ -51,7 +51,7 @@
 //console.log(d.getHours())
 //console.log(d.getMinutes())
 //console.log(d.getSeconds())
-
+*/
 
 /* <aula-04>
 function soma(n1, n2) {
@@ -70,7 +70,7 @@ function validaIdade(idade) {
 }
 var idade = prompt("Qual é a sua idade:")
 console.log(validaIdade(idade))
-
+*/
 
 /* <aula-05>
 function clicou() {
