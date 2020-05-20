@@ -1,2 +1,2 @@
-# Curso-JavaScript-Innovation-One
+# Curso-JavaScript-Basico-Innovation-One
 javaScript
